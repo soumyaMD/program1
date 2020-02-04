@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+  <test name="suitepgm">
+    <classes>
+      <class name="Exceldemos.suitepgm"/>
+    </classes>
+    </test>
+    <test name="yahootest">
+    <classes>
+      <class name="Exceldemos.yahootest"/>
+    </classes>
+    
+    
+    
+    
+    
+  </test> 
+</suite>
